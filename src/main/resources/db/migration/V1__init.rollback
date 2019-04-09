@@ -1,0 +1,6 @@
+DROP TABLE rooms;
+DROP TABLE users;
+DROP TABLE additional_options;
+DROP TABLE rooms_additional_options;
+DROP TABLE booked_rooms;
+DROP TABLE periods;
